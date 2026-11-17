@@ -1,3 +1,4 @@
+# Bitmask, Bitset & Bits
 
 ---
 
@@ -26,4 +27,5 @@
 | **Problem 10** | Codeforces General | [Go to Problem 1994B](https://codeforces.com/problemset/problem/1994/B) |
 | **Problem 11** | Group Contest 377898 | [Go to Problem A](https://codeforces.com/group/3nQaj5GMG5/contest/377898/problem/A) |
 | **Problem 12** | Group Contest 377898 | [Go to Problem F](https://codeforces.com/group/3nQaj5GMG5/contest/377898/problem/F) |
+| **Problem 13** | Codeforces 1288D · Hard · 2000 | [Go to Problem](https://codeforces.com/problemset/problem/1288/D) · [Solution](solutions/cpp/problem-13.cpp) |
 

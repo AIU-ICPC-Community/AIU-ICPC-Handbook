@@ -1,3 +1,4 @@
+# Binary Search & Two Pointers
 
 ---
 
@@ -27,4 +28,5 @@
 | **Problem 10** | CSES | [Link to Problem](https://cses.fi/problemset/task/1640) |
 | **Problem 11** | CSES | [Link to Problem](https://cses.fi/problemset/task/1643) |
 | **Problem 12** | CSES | [Link to Problem](https://cses.fi/problemset/task/1620) |
+| **Problem 13** | Codeforces 1730B · Medium · 1600 | [Link to Problem](https://codeforces.com/problemset/problem/1730/B) · [Solution](solutions/cpp/problem-13.cpp) |
 

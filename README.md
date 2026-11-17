@@ -8,19 +8,19 @@ A collection of algorithms and templates for competitive programming.
 
 ## Level 1
 
-* Prefix Sum & Frequency Array
-* Standard Template Library (STL)
-* Binary Search & Two Pointers
-* Bitmask, Bitset & Bits
-* Number Theory
+* [Prefix Sum & Frequency Array](Level%201/1.Prefix%20Sum%20%26%20Frequency%20Array/README.md)
+* [Standard Template Library (STL)](Level%201/2.STL/README.md)
+* [Binary Search & Two Pointers](Level%201/3.Binary%20Search%20%26%20Two%20Pointers/README.md)
+* [Bitmask, Bitset & Bits](Level%201/4.Bitmask%2C%20Bitset%20%26%20Bits/README.md)
+* [Number Theory](Level%201/5.Number%20Theory/README.md)
 * Greedy
 
 ## Level 2
 
-* Recursion & Backtracking
-* Basic DP & Advanced DP
-* Graph Representation (DFS & BFS)
-* Shortest Path
+* [Recursion & Backtracking](Level%202/1.Recursion%20%26%20Backtracking/README.md)
+* [Basic DP & Advanced DP](Level%202/2.DP/README.md)
+* [Graph Representation (DFS & BFS)](Level%202/3.Graph/README.md)
+* [Shortest Path](Level%202/4.Shortest%20Path/README.md)
 * Disjoint Set Union (DSU) & Minimum Spanning Tree (MST)
 * Segment Tree & Sparse Table
 
@@ -38,8 +38,21 @@ A collection of algorithms and templates for competitive programming.
 | :--- | :--- | :--- |
 | **CPH Handbook** | Book / Guide | [View PDF](https://usaco.guide/CPH.pdf) |
 | **Mahmoud Ayman Playlist** | Video Course | [Watch on YouTube](https://www.youtube.com/watch?v=9YUWFoWMfUY&list=PLIOhtFzqhbbGroes7my01e8x6GtP71Ah4) |
-| **Assiut Sheet** | Problem Solving Sheet | [Open Google Sheet](https://docs.google.com/spreadsheets/d/1EbbsotAwb0zuuwxyzs8l2qh8twqw-sNcNbAjCK1kXaE/edit?fbclid=IwAR1yPY97Febc0VMrt-ZiSKBm_3phBKdnJp7Lp-n1QCx98ISaX9taBBKl-qw&gid=1792751979#gid=1792751979) |
 | **Previous ECPC** | Contest Archive / Blogs | [View on Codeforces](https://codeforces.com/group/Rilx5irOux/blog) |
-| **Mostafa Saad Sheet** | Problem Solving Sheet | [Open Google Sheet](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?usp=sharing) |
 | **CP-Algorithms** | Algorithmic Reference & Proofs | [Visit Site](https://cp-algorithms.com/) |
-| **USACO Guide: Time Complexity** | Tutorial / Performance Analysis | [Read Guide](https://usaco.guide/bronze/time-comp) |
+
+---
+
+# Contests
+
+* [ECPC Level A](ECPC/Level%20A/README.md)
+* [ECPC Level B](ECPC/Level%20B/README.md)
+* [ECPC Level C](ECPC/Level%20C/README.md)
+* [Random Problems](Random%20Problems/README.md)
+
+---
+
+# Templates
+
+* [C++ template](Template/cpp/main.cpp)
+* [Java template](Template/java/Main.java)

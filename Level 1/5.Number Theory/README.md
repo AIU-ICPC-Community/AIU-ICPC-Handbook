@@ -1,3 +1,4 @@
+# Number Theory
 
 ---
 
@@ -24,4 +25,5 @@
 | **Problem 08** | Codeforces General | [Go to Problem 1370A](https://codeforces.com/problemset/problem/1370/A) |
 | **Problem 09** | Codeforces General | [Go to Problem 75C](https://codeforces.com/problemset/problem/75/C) |
 | **Problem 10** | Codeforces General | [Go to Problem 1285C](https://codeforces.com/problemset/problem/1285/C) |
+| **Problem 11** | Codeforces 484B · Hard · 2100 | [Go to Problem](https://codeforces.com/problemset/problem/484/B) · [Solution](solutions/cpp/problem-11.cpp) |
 

@@ -2,3 +2,14 @@
 sol
 sol.exe
 .vscode
+
+# Local testing artefacts from Template/cpp/main.cpp
+in.txt
+out.txt
+*.out
+
+# Java build output
+*.class
+
+# OS noise
+.DS_Store

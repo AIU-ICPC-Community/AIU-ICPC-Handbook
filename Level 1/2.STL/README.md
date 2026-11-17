@@ -1,3 +1,4 @@
+# Standard Template Library (STL)
 
 ---
 
@@ -10,6 +11,8 @@
 ---
 
 ## Practice Sheet
+
+Solutions: [`solutions/`](solutions)
 
 | Problem ID | Problem Name / Source | Link |
 | --- | --- | --- |
@@ -26,4 +29,5 @@
 | **Problem 11** | Codeforces 236A (Boy or Girl) | [Go to Problem](https://codeforces.com/problemset/problem/236/A) |
 | **Problem 12** | Codeforces 4C (Registration System) | [Go to Problem](https://codeforces.com/problemset/problem/4/C) |
 | **Problem 13** | Codeforces 767A (Snacktower) | [Go to Problem](https://codeforces.com/problemset/problem/767/A) |
+| **Problem 14** | Codeforces 1526C2 (Potions - Hard Version) · Medium · 1600 | [Go to Problem](https://codeforces.com/problemset/problem/1526/C2) · [Solution](solutions/cpp/problem-14.cpp) |
 

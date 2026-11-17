@@ -1,3 +1,4 @@
+# Prefix Sum & Frequency Array
 
 ---
 
@@ -14,6 +15,8 @@
 
 ## Practice Sheet
 
+Solutions: [`solutions/`](solutions)
+
 | Problem ID | Platform / Source | Link |
 | --- | --- | --- |
 | **Problem 01** | Group Contest 262795 | [Go to Problem A](https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/A) |
@@ -24,4 +27,5 @@
 | **Problem 06** | Group Contest 262795 | [Go to Problem G](https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/G) |
 | **Problem 07** | Group Contest 262795 | [Go to Problem H](https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/H) |
 | **Problem 08** | Group Contest 372026 | [Go to Problem A](https://codeforces.com/group/3nQaj5GMG5/contest/372026/problem/A) |
+| **Problem 09** | Codeforces 466C · Medium · 1700 | [Go to Problem](https://codeforces.com/problemset/problem/466/C) · [Solution](solutions/cpp/problem-09.cpp) |
 
