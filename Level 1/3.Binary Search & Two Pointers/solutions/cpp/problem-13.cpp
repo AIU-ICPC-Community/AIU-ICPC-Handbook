@@ -17,10 +17,10 @@ int main() {
         for (long long &value : position) cin >> value;
         for (long long &value : dressing) cin >> value;
 
-        long long rightSide = LLONG_MIN / 2;
-        long long leftSide = LLONG_MIN / 2;
+        long long rightSide = position[0] + dressing[0];
+        long long leftSide = dressing[0] - position[0];
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 1; i < n; i++) {
             rightSide = max(rightSide, position[i] + dressing[i]);
             leftSide = max(leftSide, dressing[i] - position[i]);
         }
